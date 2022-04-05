@@ -1,0 +1,44 @@
+{
+  "id": "3303768",
+  "name": "天气",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "685506",
+      "name": "小雪",
+      "font_class": "xiaoxue",
+      "unicode": "e6f6",
+      "unicode_decimal": 59126
+    },
+    {
+      "icon_id": "970780",
+      "name": "太阳",
+      "font_class": "taiyang-copy",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "5866955",
+      "name": "云朵",
+      "font_class": "yunduo",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "9318454",
+      "name": "雨滴2",
+      "font_class": "yudi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "22613456",
+      "name": "闪电",
+      "font_class": "shandian",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    }
+  ]
+}
